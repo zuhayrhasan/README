@@ -1,5 +1,5 @@
 ## Hi there! 👋
-My name is Zuhayr Hasan, and I'm a recent graduate Software Engineer from the University of Western Ontario. Welcome to my GitHub profile!
+My name is Zuhayr Hasan, and I'm a recent Software Engineer graduate from the University of Western Ontario. Welcome to my GitHub profile!
 
 ## 🧐 About Me
 I'm passionate about software development and programming. During my time at the University of Western Ontario, I had the opportunity to work on a variety of software projects, ranging from web applications to mobile apps. In my free time, I enjoy mixing my two passions: football and programming, focusing on the analytical side of the sport.
