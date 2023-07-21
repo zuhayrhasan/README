@@ -10,10 +10,10 @@ I'm currently working on a project called 'OddsOn', a website that provides live
 The project is still under development, but I'm excited to see where it goes. Stay tuned for updates!
 
 ## 📫 How to reach me
-You can reach me by email at zhasan8@uwo.ca, or connect with me on [LinkedIn](https://www.linkedin.com/in/zuhayrhasan/).
+You can reach me by email at zuhayrshasan@gmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/zuhayrhasan/).
 
 ## 💬 Ask me about
-Feel free to ask me about my experience as a software engineer, my academic projects, or anything else related to software development.
+Feel free to ask me about my experience as a Software Engineer, my academic projects, or anything else related to software development.
 
 ## ⚡ Fun fact
 I can solve a Rubic's Cube, I run a [TikTok Page](https://www.tiktok.com/@zuhayrhasan), and I am a huge Arsenal supporter.
