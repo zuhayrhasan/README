@@ -4,10 +4,8 @@ My name is Zuhayr Hasan, and I'm a recent Software Engineer graduate from the Un
 ## 🧐 About Me
 I'm passionate about software development and programming. During my time at the University of Western Ontario, I had the opportunity to work on a variety of software projects, ranging from web applications to mobile apps. In my free time, I enjoy mixing my two passions: football and programming, focusing on the analytical side of the sport.
 
-## 🔭 I’m currently working on
-I'm currently working on a project called 'OddsOn', a website that provides live football match predictions using JavaScript, HTML, React, and the 'API-Football' API. With OddsOn, you can select one of the 5 main leagues and view every available fixture. Each fixture shows both team and individual statistics, formation, and other relevant information.
-
-The project is still under development, but I'm excited to see where it goes. Stay tuned for updates!
+## 🔭 I’m currently looking for
+New opportunities! I am an eager Software Engineering graduate who is ready to put his foot into the industry. I am looking for full-stack development roles, but am open to anything related to Software Development. I am a quick learner, great teammate, and honest communicator.
 
 ## 📫 How to reach me
 You can reach me by email at zuhayrshasan@gmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/zuhayrhasan/).
